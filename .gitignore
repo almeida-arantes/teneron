@@ -2,3 +2,4 @@
 __pycache__/
 venv/
 *.pyc
+hubspot_capability_cache.json
